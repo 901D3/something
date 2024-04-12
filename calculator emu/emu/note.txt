@@ -1,0 +1,6 @@
+before go choose a model first check the code then provide the CasioEmuNeo or CasioEmuX(you can use lnk), then the model will be folder
+example
+casioemu.exe  application
+fx580vnx  directory
+then use the syntax:
+casioemu.exe fx580vnx
